@@ -1,0 +1,25 @@
+body{
+background-color:lightseagreen;
+}
+#logOutBTN{
+    padding-top: 60px;
+    padding-left: 60px;
+}
+.header
+{
+	color: #303030;font-family: 'Square Peg', cursive;font-size: 75px;letter-spacing: 10px;margin-top: 80px;
+}
+.header img
+{
+	width: 90px;margin-left: -15px;
+}
+#bird{
+    width: 80px;
+}
+.login_div
+{
+	background: rgba(255,255,255,0.8);float: none;border-radius: 15px;
+}
+#logInBTN{
+    width: 80%;border-radius: 15px;
+}
